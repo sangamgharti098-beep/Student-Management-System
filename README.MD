@@ -28,3 +28,16 @@ I used Python and SQLite to create this program.
 - SQLite
 - Visual Studio Code (VS Code)
 - Object-Oriented Programming (OOP)
+
+
+## How to Run the Website
+
+1. Open the project in VS Code.
+2. Open the terminal.
+3. Install Flask:
+ python -m pip install flask
+4. Run the website:
+python web_app.py
+5. Open http://127.0.0.1:5000 in your browser.
+
+The website lets users add students, add courses, enroll students, and view saved records.
